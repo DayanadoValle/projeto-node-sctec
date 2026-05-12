@@ -1,6 +1,6 @@
 # 💻 Backend Project: Calculadora Modularizada - SCTEC
 
-Projeto desenvolvido para o curso **Desenvolvimento de Software Backend**. A aplicação foca na construção de uma lógica de negócio desacoplada, utilizando **Node.js** e seguindo princípios de **Clean Code**.
+Projeto desenvolvido para o curso **Desenvolvimento de Software Backend** SCTEC. A aplicação foca na construção de uma lógica de negócio desacoplada, utilizando **Node.js** e seguindo princípios de **Clean Code**.
 
 ## 🎯 Desafios do Professor
 
