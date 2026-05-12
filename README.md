@@ -1,6 +1,6 @@
 # 💻 Backend Project: Calculadora Modularizada - SCTEC
 
-Projeto desenvolvido para a disciplina de **Desenvolvimento de Software Backend**. A aplicação foca na construção de uma lógica de negócio desacoplada, utilizando **Node.js** e seguindo princípios de **Clean Code**.
+Projeto desenvolvido para o curso **Desenvolvimento de Software Backend**. A aplicação foca na construção de uma lógica de negócio desacoplada, utilizando **Node.js** e seguindo princípios de **Clean Code**.
 
 ## 🎯 Desafios do Professor
 
@@ -24,7 +24,12 @@ Projeto desenvolvido para a disciplina de **Desenvolvimento de Software Backend*
 ## 🚀 Tecnologias
 * **Node.js**, **VS Code**, **Git & GitHub**
 
+## 📥 Instalação e Uso
+
+1. Clone o repositório e acesse a pasta.
+2. Instale as dependências com `npm install`.
+3. **Instruções**: O sistema aceita decimais com `.` ou `,`, mas bloqueia pontos de milhar para evitar erros de magnitude financeira.
+
 ## 💻 Como Rodar
 ```bash
 npm start
-```
